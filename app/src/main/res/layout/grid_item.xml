@@ -7,14 +7,14 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="205dp"
-        android:layout_height="208dp"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
         tools:srcCompat="@drawable/arya" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="210dp"
-        android:layout_height="44dp"
+        android:layout_width="216dp"
+        android:layout_height="41dp"
         android:text="TextView"
         android:textAlignment="center"
         android:textAppearance="@android:style/TextAppearance.Widget.TextView"
